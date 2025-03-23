@@ -1,0 +1,5 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^10.0.0      # 定位功能
+  permission_handler: ^10.4.0  # 权限申请
